@@ -2,7 +2,7 @@
 ## NAME : PREETHI D
 ## REGISTER NUMBER : 212224040250
 
-# # EX NO-01  Hackerrank:# 🏆 Student Topper Finder
+# EX NO-01  Hackerrank:# 🏆 Student Topper Finder
 
 This Python program helps determine the **top-performing student** based on the total marks across five subjects. It uses a dictionary to store each student’s marks and identifies the topper using simple calculations and built-in functions.
 
